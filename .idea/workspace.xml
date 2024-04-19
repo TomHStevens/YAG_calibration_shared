@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9264ecea-b090-4326-8462-bd992d739d32" name="Changes" comment="" />
+    <list default="true" id="9264ecea-b090-4326-8462-bd992d739d32" name="Changes" comment="2024 04 19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TomHStevens"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TomHStevens/YAG_calibration_shared.git",
+    "accountId": "15a2c0cb-c1b6-4fce-8e15-d1a01ff056ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -23,10 +38,21 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/s/stevens/Projects/YAG_calibration_shared",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/.venv/lib/python3.11/site-packages" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +69,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713515173235</updated>
-      <workItem from="1713515175213" duration="7000" />
+      <workItem from="1713515175213" duration="4343000" />
     </task>
+    <task id="LOCAL-00001" summary="Creation">
+      <option name="closed" value="true" />
+      <created>1713515937291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713515937291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="requirements file">
+      <option name="closed" value="true" />
+      <created>1713518375570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713518375570</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2024 04 19">
+      <option name="closed" value="true" />
+      <created>1713539252674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713539252674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation" />
+    <MESSAGE value="requirements file" />
+    <MESSAGE value="2024 04 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024 04 19" />
   </component>
 </project>
